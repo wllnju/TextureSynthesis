@@ -16,3 +16,7 @@ If you want to run the code, please choose the method you want to use and go to 
 -> ./texture ../images/greencells.jpg
 
 It will produce the synthesized image for input file "../images/greencells.jpg" with user-defined output size and different window_size which can be modified by user in the beginning of the main.cpp.
+
+Here are the results:
+![plot of 1](1.pdf)
+![plot of 2](2.pdf)
